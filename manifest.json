@@ -1,0 +1,9 @@
+{
+  "name": "Simple App",
+  "short_name": "SimpleApp",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": []
+}
